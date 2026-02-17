@@ -1,3 +1,7 @@
+2024DS28
+hassan ali
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 
